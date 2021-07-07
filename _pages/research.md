@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /research/
 header:
    image: assets/images/IMG_8480_magellanic.jpg
 ---
