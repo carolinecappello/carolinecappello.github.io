@@ -1,4 +1,5 @@
 ---
+author_profile: TRUE
 layout: single
 permalink: /research/
 header:
