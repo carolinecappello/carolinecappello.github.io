@@ -18,9 +18,7 @@ conduct research that guides the conservation of threatened species,
 the mitigation of human-wildlife conflict, and that furthers understanding of the
 foundations of wildlife ecology and behavior. 
 
-Project updates coming soon! <br>
 
-<!--
 #### Drivers of phenology and consequences of phenological shifts:
 
 Shifts in phenology (i.e. the timing of important life events such as growth, 
@@ -39,7 +37,7 @@ conditions.
 
 #### Conservation of rare and endangered species:
 
-_Galapagos penguins:_ Populations of rare and endangered species have urgent conservation needs yet are often among the most difficult to study. The Galapagos penguin is Endangered
+Populations of rare and endangered species have urgent conservation needs yet are often among the most difficult to study. The Galapagos penguin is Endangered
 on the IUCN Red List, and its population is small and remote. My work with this species
 aims to reveal components of its natural history, behavior, and demography that 
 will aid in developing effective conservation strategies. For example, I tested 
@@ -52,6 +50,8 @@ This information will be useful for designing artificial nests to increase breed
 opportunities for this small and endangered population.
 <br>
 <br>
+
+<!--
 _Integrated population modeling:_ Management and funding allocation decisions frequently 
 rely on population trajectory estimates, but uncertainty in trends can be high when
 data are sparse. As part of a collaborative effort, I am currently working on a 
