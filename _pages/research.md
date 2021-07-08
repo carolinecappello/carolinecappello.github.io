@@ -13,7 +13,7 @@ history. I use a combination of field studies, remote sensing, and quantitative 
 understand how global change and human activities affect the performance, ecological 
 interactions, and dynamics of wildlife populations. My research as a PhD Candidate 
 in the Department of Biology at the University of Washington focuses on the ecology 
-and conservation of two South American penguin species. My goal is to
+and conservation of two South American penguin species. My overarching goal is to
 conduct research that guides the conservation of threatened species, 
 the mitigation of human-wildlife conflict, and that furthers understanding of the
 foundations of wildlife ecology and behavior. 
