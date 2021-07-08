@@ -6,7 +6,7 @@ header:
    image: assets/images/IMG_4293_guanaco.JPG
 ---
 
-# CV
+<h1 id="cvtop"> CV </h1>
 
 <h6><strong>Last updated 23 Jun 2021</strong></h6>
 
@@ -27,7 +27,7 @@ PhD Candidate, Department of Biology, Advisor: P. Dee Boersma </p>
 BA summa cum laude in Environmental Studies and Theater Arts with highest honors </p>
 
 
-<p>2010   	The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania  
+<p>2010 The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania  
 Full semester course credit in Wildlife Ecology & Management Studies</p>	                      		          
 
 <h3>Publications</h3>
@@ -199,7 +199,8 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Officer</strong>, Social Committee, Department of Biology, UW. 2017-present. </p>
 <p> <strong> Seminar Host & Peer Mentor</strong>, Graduate Research Seminar, Dept. of Biology, UW. 2020. </p>
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
-
+<br>
+<a href="#cvtop"> back to top </a>
 <br>
 
 <!--
