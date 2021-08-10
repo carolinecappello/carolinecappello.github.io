@@ -7,6 +7,7 @@ header:
   image: assets/images/IMG_4293_guanaco.JPG
 ---
 
+<p id="cvtop"> </p> 
 
 Caroline D. Cappello <br>
 University of Washington <br>
@@ -16,7 +17,7 @@ Seattle, WA 98195
 
 ccappell [at] uw.edu
 
-<h6><strong>Last updated 23 Jun 2021</strong></h6>
+<h6><em>Last updated 23 Jun 2021</em></h6>
 
 <h3>Education</h3>
 
