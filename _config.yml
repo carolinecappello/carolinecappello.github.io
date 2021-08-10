@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "Caroline Cappello"
-  avatar           : "/assets/images/IMG_0475_headshot.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wildlife Ecology, Conservation, & Natural History"
+  avatar           : "/assets/images/IMG_0475_CroppedHeadshot.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Wildlife Ecology, Conservation, Natural History"
   location         : "Seattle, WA"
   email            : 
   links:
