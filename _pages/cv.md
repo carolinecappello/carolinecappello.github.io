@@ -6,7 +6,6 @@ header:
    image: assets/images/IMG_4293_guanaco.JPG
 ---
 
-<h1 id="cvtop"> CV </h1>
 
 <h6><strong>Last updated 23 Jun 2021</strong></h6>
 
