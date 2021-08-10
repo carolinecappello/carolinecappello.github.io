@@ -3,7 +3,7 @@ author_profile: true
 layout: single
 permalink: /about/
 header:
-   image: assets/images/IMG_1841_heron.jpg
+   image: assets/images/IMG_1841_heron.JPG
 ---
 
 

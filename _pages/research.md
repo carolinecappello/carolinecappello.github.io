@@ -3,9 +3,10 @@ author_profile: true
 layout: single
 permalink: /research/
 header:
-   image: assets/images/IMG_8480_magellanic.jpg
+   image: assets/images/IMG_8480_magellanic.JPG
 ---
 
+# Research
 
 My research interests are in wildlife ecology, conservation biology, and natural 
 history. I use a combination of field studies, remote sensing, and quantitative tools to 
