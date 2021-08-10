@@ -1,13 +1,12 @@
 ---
-author_profile: true
+author_profile: yes
+title: CV
 layout: single
 permalink: /cv/
 header:
-   image: assets/images/IMG_4293_guanaco.JPG
+  image: assets/images/IMG_4293_guanaco.JPG
 ---
 
-
-<h6><strong>Last updated 23 Jun 2021</strong></h6>
 
 Caroline D. Cappello <br>
 University of Washington <br>
@@ -16,6 +15,8 @@ Box 351800 <br>
 Seattle, WA 98195
 
 ccappell [at] uw.edu
+
+<h6><strong>Last updated 23 Jun 2021</strong></h6>
 
 <h3>Education</h3>
 
