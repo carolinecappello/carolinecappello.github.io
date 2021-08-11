@@ -2,6 +2,7 @@
 author_profile: true
 title: About
 layout: single
+classes: wide
 permalink: /about/
 header:
    image: assets/images/IMG_1841_heron.JPG
