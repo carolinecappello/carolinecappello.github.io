@@ -17,7 +17,7 @@ Seattle, WA 98195
 
 ccappell [at] uw.edu
 
-<p><em>Last updated 23 Jun 2021</em></p>
+<em>Last updated 23 Jun 2021</em>
 
 <h3>Education</h3>
 
