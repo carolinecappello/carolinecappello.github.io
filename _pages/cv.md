@@ -17,8 +17,6 @@ Seattle, WA 98195
 
 ccappell [at] uw.edu
 
-<small><em>Last updated 23 Jun 2021</em></small>
-
 <h3>Education</h3>
 
 <p>2016-present   <strong>University of Washington</strong>, Seattle, WA <br>							
@@ -201,7 +199,11 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Officer</strong>, Social Committee, Department of Biology, UW. 2017-present. </p>
 <p> <strong> Seminar Host & Peer Mentor</strong>, Graduate Research Seminar, Dept. of Biology, UW. 2020. </p>
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
+
 <br>
+
+<small><em>Last updated 23 Jun 2021</em></small>
+
 <a href="#cvtop"> back to top </a>
 <br>
 <br>
