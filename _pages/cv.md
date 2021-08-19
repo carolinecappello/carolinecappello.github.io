@@ -33,10 +33,10 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <h3>Publications</h3>
 
-<p><u>Peer-reviewed articles:</u></p>
-<p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2021. Consequences of phenological shifts and a compressed breeding period in Magellanic penguins. Ecology [DOI: 10.1002/ecy.3443](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3443) </p>
-<p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2018. Sexing Galápagos penguins (Spheniscus mendiculus) by morphological measurements. Endangered Species Research 35: 169-173 [DOI: 10.3354/esr00879](http://www.int-res.com/abstracts/esr/v35/p169-173/) </p>
-<p>Boersma, P.D., <strong>C.D. Cappello</strong>, and G. Merlen. 2017. First observations of post-fledging care in Galápagos penguins (Spheniscus mendiculus). Wilson Journal of Ornithology 129(1): 186-191 [DOI: 10.1676/1559-4491-129.1.186](https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-129/issue-1/1559-4491-129.1.186/First-observations-of-post-fledging-care-in-Galapagos-Penguins-Spheniscus/10.1676/1559-4491-129.1.186.short) </p>
+<u>Peer-reviewed articles:</u> <br><br>
+<p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2021. Consequences of phenological shifts and a compressed breeding period in Magellanic penguins. Ecology <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3443" >DOI: 10.1002/ecy.3443</a> </p>
+<p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2018. Sexing Galápagos penguins (Spheniscus mendiculus) by morphological measurements. Endangered Species Research 35: 169-173 <a href = "http://www.int-res.com/abstracts/esr/v35/p169-173/"> DOI: 10.3354/esr00879</a> </p>
+<p>Boersma, P.D., <strong>C.D. Cappello</strong>, and G. Merlen. 2017. First observations of post-fledging care in Galápagos penguins (Spheniscus mendiculus). Wilson Journal of Ornithology 129(1): 186-191 <a href = "https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-129/issue-1/1559-4491-129.1.186/First-observations-of-post-fledging-care-in-Galapagos-Penguins-Spheniscus/10.1676/1559-4491-129.1.186.short" > DOI: 10.1676/1559-4491-129.1.186 </a> </p>
 <p>McNeil, S.E., D. Tracy, and <strong>C.D. Cappello</strong>. 2015. Loop migration and Chaco wintering by a Western Yellow-billed Cuckoo. Western Birds 46(3): 244-255 </p>
 
 <p><u>Technical reports:</u></p>
