@@ -201,12 +201,13 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
 <br>
-
 <small><em>Last updated 23 Jun 2021</em></small>
 
+<br> <br>
+
 <a href="#cvtop"> back to top </a>
-<br>
-<br>
+
+<br> <br>
 
 <!--
 <h3>Data Tools</h3>
