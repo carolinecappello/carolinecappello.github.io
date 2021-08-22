@@ -13,7 +13,7 @@ html {
   font-size: 30px; // 16 this is not the main text
 
   @include breakpoint($medium) {
-    font-size: 8px; // 18
+    font-size: 8px; // 18 not this one either
   }
 
   @include breakpoint($large) {
