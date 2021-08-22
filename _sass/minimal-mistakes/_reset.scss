@@ -10,18 +10,18 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 12px; // 16 this is not the main text
+  font-size: 14px; // 16 this is not the main text
 
   @include breakpoint($medium) {
-    font-size: 12px; // 18 not this one either
+    font-size: 14px; // 18 not this one either
   }
 
   @include breakpoint($large) {
-    font-size: 12px; // 20
+    font-size: 14px; // 20
   }
 
   @include breakpoint($x-large) {
-    font-size: 12px; // 22
+    font-size: 14px; // 22
   }
 
   -webkit-text-size-adjust: 100%;
