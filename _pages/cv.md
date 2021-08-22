@@ -40,7 +40,7 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Technical reports:</u></p>
 
-<p>Boersma, P.D., <strong>C.D. Cappello</strong>, K.B. Karnauskas, G. Merlen, P. Parker, A. Steinfurth, and H.F. Vargas. 2018. Spheniscus mendiculus. The IUCN Red List of Threatened Species 2018 (BirdLife International). [DOI: 10.2305/IUCN.UK.2018-2.RLTS.T22697825A132606008.en](https://www.iucnredlist.org/species/22697825/132606008) </p>
+<p>Boersma, P.D., <strong>C.D. Cappello</strong>, K.B. Karnauskas, G. Merlen, P. Parker, A. Steinfurth, and H.F. Vargas. 2018. Spheniscus mendiculus. The IUCN Red List of Threatened Species 2018 (BirdLife International). <a href = "https://www.iucnredlist.org/species/22697825/132606008"> DOI: 10.2305/IUCN.UK.2018-2.RLTS.T22697825A132606008.en </a> </p>
 <p>Boersma, P.D., <strong>C.D. Cappello</strong>, K.B. Karnauskas, G. Merlen, P. Parker, A. Steinfurth, and H.F. Vargas. 2016. Spheniscus mendiculus. The IUCN Red List of Threatened Species 2016 (BirdLife International). DOI: 10.2305/IUCN.UK.2016-3.RLTS.T22697825A93642773.en </p>
 <p>Garcia-Borboroglu, P., P.D. Boersma, and <strong>C.D. Cappello</strong>. 2015. Sentinels of the ocean: the science of the world’s penguins. The Pew Charitable Trusts. Washington, DC </p>
 
