@@ -10,18 +10,18 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 16px; // 16 this is not the main text
+  font-size: 16px; // 16 from what I can tell, setting these four to 16 fixes the font size issue. Would like to know what happens when lg or xl are set to something higher (e.g. does the masthead text get larger?)
 
   @include breakpoint($medium) {
-    font-size: 16px; // 18 not this one either
+    font-size: 16px; // 18
   }
 
   @include breakpoint($large) {
-    font-size: 16px; // 20
+    font-size: 36px; // 20
   }
 
   @include breakpoint($x-large) {
-    font-size: 16px; // 22
+    font-size: 36px; // 22
   }
 
   -webkit-text-size-adjust: 100%;
