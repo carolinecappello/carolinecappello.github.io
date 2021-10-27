@@ -5,7 +5,7 @@ layout: single
 classes: wide
 permalink: /about/
 header:
-   image: assets/images/1.jpeg
+   image: assets/images/1.JPG
 ---
 
 
