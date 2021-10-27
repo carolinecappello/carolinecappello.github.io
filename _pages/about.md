@@ -5,7 +5,7 @@ layout: single
 classes: wide
 permalink: /about/
 header:
-   image: assets/images/IMG_1841_heron.JPG
+   image: assets/images/1.jpeg
 ---
 
 
@@ -13,5 +13,5 @@ I am a PhD Candidate and NSF Graduate Research Fellow in the [Biology Department
 
 __Favorite recent lifer:__ Golden Eagle (_Aquila chrysaetos_), Dry Falls Lake, WA <br>
 __Favorite recent hike:__ Mt. Ellinor, Olympic Mountains, WA <br>
-__Favorite recent read:__ 1Q84 by Haruki Murakami <br>
+__Favorite recent read:__ Interior Chinatown by Charles Yu <br>
 <br>
