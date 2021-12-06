@@ -5,7 +5,7 @@ layout: single
 classes: wide
 permalink: /about/
 header:
-   image: assets/images/IMG_1841_heron_cropped2.JPG
+   image: assets/images/1841_heron_cropped2.JPG
 ---
 
 
