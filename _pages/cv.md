@@ -4,7 +4,7 @@ title: CV
 layout: single
 permalink: /cv/
 header:
-  image: assets/images/IMG_4293_guanaco.JPG
+  image: assets/images/IMG_4293_guanaco_cropped.JPG
 ---
 
 <p id="cvtop"> </p> 
@@ -19,14 +19,13 @@ ccappell [at] uw.edu
 
 <h3>Education</h3>
 
-<p>2016-present   <strong>University of Washington</strong>, Seattle, WA <br>							
+<p>2016-present   <strong>University of Washington</strong>, Seattle, WA <br>
 PhD Candidate, Department of Biology, Advisor: P. Dee Boersma </p>
 
-<p>2007-2011	<strong>Brandeis University</strong>, Waltham, MA <br>	
+<p>2007-2011	<strong>Brandeis University</strong>, Waltham, MA <br>
 BA summa cum laude in Environmental Studies and Theater Arts with highest honors </p>
 
-
-<p>2010 The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania <br> 
+<p>2010 The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania <br>
 Full semester course credit in Wildlife Ecology & Management Studies</p>	                      		          
 
 <h3>Publications</h3>
@@ -46,6 +45,7 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Popular science writing:</u></p>
 
+<p> Boersma, P.D., Merlen, G., Holt, K.A., <strong>Cappello, C.D.</strong>, Garcia-Borboroglu, P. 2021. Pinguinos en la Linea Ecuatorial: El Pinguino de Galapagos [Penguins on the Ecuador: the Galapagos Penguin]. Imprenta Mariscal, Quito, Ecuador </p>
 Guest writer for Galapagos Conservancy’s blog: <br>
 [A Fragile Landscape for Penguins.](https://www.galapagos.org/blog/fragile-landscape-for-penguins/) 2020. <br>
 [The Measure of a Penguin.](https://www.galapagos.org/blog/the-measure-of-a-penguin/) 2019. <br>
@@ -192,11 +192,10 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
   <li> Polar Biology </li>
 </ul>
 
-
-<p> <strong> Grad Student Representative</strong>, Equity in Fieldwork Task Force, Dept. of Biology, UW. 2020-present. </p>
 <p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-present. </p>
 <p> <strong> Advisory Group Member</strong>, UW Sexual Harassment Prevention Advisory Board, Action Collaborative for Preventing Sexual Harassment in Higher Education, National Academy of Sciences, Engineering, and Medicine (NASEM). 2019-present. </p>
-<p> <strong> Officer</strong>, Social Committee, Department of Biology, UW. 2017-present. </p>
+<p> <strong> Grad Student Representative</strong>, Equity in Fieldwork Task Force, Dept. of Biology, UW. 2020-2021. </p>
+<p> <strong> Officer</strong>, Social Committee, Department of Biology, UW. 2017-2021. </p>
 <p> <strong> Seminar Host & Peer Mentor</strong>, Graduate Research Seminar, Dept. of Biology, UW. 2020. </p>
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
@@ -213,7 +212,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <h3>Data Tools</h3>
 
 Data management: SQL <br>
-Data analysis: R (*tidyverse*), JAGS, nimble <br>
+Data analysis: R (*tidyverse*), JAGS, NIMBLE <br>
 Visualization/web design: R (*ggplot2, shiny*), HTML, CSS <br>
 Mapping:  ESRI, R (*sf, raster*) <br>
 
