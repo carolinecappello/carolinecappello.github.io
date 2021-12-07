@@ -4,7 +4,7 @@ title: CV
 layout: single
 permalink: /cv/
 header:
-  image: assets/images/IMG_4293_guanaco.JPG
+  image: assets/images/IMG_4293_guanaco_cropped.JPG
 ---
 
 <p id="cvtop"> </p> 
