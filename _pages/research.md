@@ -5,7 +5,7 @@ layout: single
 classes: wide
 permalink: /research/
 header:
-   image: assets/images/IMG_8480_magellanic_cropped.JPG
+   image: assets/images/IMG_8480_magellanic_cropped2.JPG
 ---
 
 
