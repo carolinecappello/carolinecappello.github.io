@@ -38,9 +38,9 @@ conditions.
 
 #### Conservation of rare and endangered species:
 
-Populations of rare and endangered species have urgent conservation needs yet are often among the most difficult to study. The Galapagos penguin is Endangered
+Populations of rare and endangered species have urgent conservation needs yet can be among the most difficult to study. The Galapagos penguin is Endangered
 on the IUCN Red List, and its population is small and remote. My work with this species
-aims to reveal components of its natural history, behavior, and demography that 
+aims to reveal components of its natural history, behavior, and population dynamics that 
 will aid in developing effective conservation strategies. For example, I tested 
 the accuracy of less invasive methods (e.g. morphometric measurements, subtle
 markings on otherwise monomorphic plumage) for determining the sex of individual
