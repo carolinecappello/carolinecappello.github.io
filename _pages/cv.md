@@ -193,7 +193,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 </ul>
 
 <p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-present. </p>
-<p> <strong> Advisory Group Member</strong>, UW Sexual Harassment Prevention Advisory Board, Action Collaborative for Preventing Sexual Harassment in Higher Education, National Academy of Sciences, Engineering, and Medicine (NASEM). 2019-present. </p>
+<p> <strong> Advisory Group Member</strong>, UW Sexual Harassment Prevention Advisory Board, Action Collaborative for Preventing Sexual Harassment in Higher Education, National Academy of Sciences, Engineering, and Medicine (NASEM). 2019-2022. </p>
 <p> <strong> Grad Student Representative</strong>, Equity in Fieldwork Task Force, Dept. of Biology, UW. 2020-2021. </p>
 <p> <strong> Officer</strong>, Social Committee, Department of Biology, UW. 2017-2021. </p>
 <p> <strong> Seminar Host & Peer Mentor</strong>, Graduate Research Seminar, Dept. of Biology, UW. 2020. </p>
