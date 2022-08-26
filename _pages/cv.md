@@ -10,17 +10,16 @@ header:
 <p id="cvtop"> </p> 
 
 Caroline D. Cappello <br>
-University of Washington <br>
-Department of Biology <br>
-Box 351800 <br>
-Seattle, WA 98195
+Arizona Cooperative Fish and Wildlife Research Unit <br>
+University of Arizona <br>
+Tucson, AZ
 
-ccappell [at] uw.edu
+ccappello [at] arizona.edu
 
 <h3>Education</h3>
 
-<p>2016-present   <strong>University of Washington</strong>, Seattle, WA <br>
-PhD Candidate, Department of Biology, Advisor: P. Dee Boersma </p>
+<p>2016-2022   <strong>University of Washington</strong>, Seattle, WA <br>
+PhD, Department of Biology, Advisor: P. Dee Boersma </p>
 
 <p>2007-2011	<strong>Brandeis University</strong>, Waltham, MA <br>
 BA summa cum laude in Environmental Studies and Theater Arts with highest honors </p>
@@ -32,6 +31,8 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Peer-reviewed articles:</u></p>
 
+<p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
+<p>Wagner, E.L., <strong>Cappello, C.D.</strong>, and P.D. Boersma. 2022. Should I stay or should I go? Patterns of mate retention and divorce in Magellanic penguins (Spheniscus magellanicus). Animal Behaviour <a href = "https://pubag.nal.usda.gov/catalog/7886423" >DOI: 10.1016/j.anbehav.2022.08.002 </a> </p>
 <p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2021. Consequences of phenological shifts and a compressed breeding period in Magellanic penguins. Ecology <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3443" >DOI: 10.1002/ecy.3443</a> </p>
 <p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2018. Sexing Galápagos penguins (Spheniscus mendiculus) by morphological measurements. Endangered Species Research 35: 169-173 <a href = "http://www.int-res.com/abstracts/esr/v35/p169-173/"> DOI: 10.3354/esr00879</a> </p>
 <p>Boersma, P.D., <strong>C.D. Cappello</strong>, and G. Merlen. 2017. First observations of post-fledging care in Galápagos penguins (Spheniscus mendiculus). Wilson Journal of Ornithology 129(1): 186-191 <a href = "https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-129/issue-1/1559-4491-129.1.186/First-observations-of-post-fledging-care-in-Galapagos-Penguins-Spheniscus/10.1676/1559-4491-129.1.186.short" > DOI: 10.1676/1559-4491-129.1.186 </a> </p>
@@ -78,8 +79,10 @@ Citizenship.</strong> 2011. Brandeis University </p>
 
 <h3>Presentations</h3>
 
+<p> Figuring out what counts: evaluating the effect of data quantity and quality on the performance of integrated population models. 2022. International Statistical and Ecology Conference, Cape Town, South Africa. <em>Virtual talk</em> </p>
+<!-- -->
 <p> Integrated population model performance across varying data requirements for estimating demographic parameters. 2021. EURING Analytical Meeting & Workshop, Quebec City, PQ, Canada.
-<em>Poster</em> </p>
+<em>Virtual poster</em> </p>
 <!-- -->
 <p> Early bird gets the fish? Late breeding and trophic mismatch in a migratory seabird. 
 2021. Olympic Peninsula Audubon Society, Sequim, WA.
@@ -174,7 +177,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <h3>Public Service & Outreach</h3>
 
 <p> <strong>Scientist</strong>, Skype a Scientist, classrooms across the U.S. 2019-present.	</p>
-<p> <strong>Mentor</strong>, Girls in Engineering, Math, and Science, Assoc. for Women in Science, Seattle. 2019-present.</p>
+<p> <strong>Mentor</strong>, Girls in Engineering, Math, and Science, Assoc. for Women in Science, Seattle. 2019-2021.</p>
 <p> <strong>Table Presenter</strong>, Polar Science Weekend, Seattle Pacific Science Center. 2015-2019. </p>
 <p> <strong>Coordinator & Trip Leader</strong>, Young Naturalists’ Society of the Pacific Northwest. 2015-2018. 	</p>
 <p> <strong> Classroom Assistant</strong>, Girls in Science Summer Camp, Burke Museum of Natural History. 2018.</p>
@@ -192,7 +195,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
   <li> Polar Biology </li>
 </ul>
 
-<p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-present. </p>
+<p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-2022. </p>
 <p> <strong> Advisory Group Member</strong>, UW Sexual Harassment Prevention Advisory Board, Action Collaborative for Preventing Sexual Harassment in Higher Education, National Academy of Sciences, Engineering, and Medicine (NASEM). 2019-2022. </p>
 <p> <strong> Grad Student Representative</strong>, Equity in Fieldwork Task Force, Dept. of Biology, UW. 2020-2021. </p>
 <p> <strong> Officer</strong>, Social Committee, Department of Biology, UW. 2017-2021. </p>
@@ -200,7 +203,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
 <br>
-<small><em>Last updated Mar 2022</em></small>
+<small><em>Last updated Aug 2022</em></small>
 
 <br> <br>
 
