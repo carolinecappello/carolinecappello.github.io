@@ -79,6 +79,8 @@ Citizenship.</strong> 2011. Brandeis University </p>
 
 <h3>Presentations</h3>
 
+<p> Ecology and conservation of Magellanic and Galapagos penguins in a changing world. 2022. School of Natural Resources and the Environment Seminar, University of Arizona, Tucson, AZ. <em>Invited virtual talk</em> </p>
+
 <p> Figuring out what counts: evaluating the effect of data quantity and quality on the performance of integrated population models. 2022. International Statistical and Ecology Conference, Cape Town, South Africa. <em>Virtual talk</em> </p>
 <!-- -->
 <p> Integrated population model performance across varying data requirements for estimating demographic parameters. 2021. EURING Analytical Meeting & Workshop, Quebec City, PQ, Canada.
@@ -203,7 +205,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
 <br>
-<small><em>Last updated Aug 2022</em></small>
+<small><em>Last updated Oct 2022</em></small>
 
 <br> <br>
 
