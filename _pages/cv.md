@@ -31,27 +31,36 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Peer-reviewed articles:</u></p>
 
-<p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
-<p>Wagner, E.L., <strong>Cappello, C.D.</strong>, and P.D. Boersma. 2022. Should I stay or should I go? Patterns of mate retention and divorce in Magellanic penguins (Spheniscus magellanicus). Animal Behaviour <a href = "https://pubag.nal.usda.gov/catalog/7886423" >DOI: 10.1016/j.anbehav.2022.08.002 </a> </p>
-<p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2021. Consequences of phenological shifts and a compressed breeding period in Magellanic penguins. Ecology <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3443" >DOI: 10.1002/ecy.3443</a> </p>
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. In Revision. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere </p>
+<!-- -->
+<p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science 377(6609):1008-1011 <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
+<!-- -->
+<p>Wagner, E.L., <strong>Cappello, C.D.</strong>, and P.D. Boersma. 2022. Should I stay or should I go? Patterns of mate retention and divorce in Magellanic penguins (Spheniscus magellanicus). Animal Behaviour 192:133-144 <a href = "https://pubag.nal.usda.gov/catalog/7886423" >DOI: 10.1016/j.anbehav.2022.08.002 </a> </p>
+<!-- -->
+<p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2021. Consequences of phenological shifts and a compressed breeding period in Magellanic penguins. Ecology 102(10):e03443 <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3443" >DOI: 10.1002/ecy.3443</a> </p>
+<!-- -->
 <p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2018. Sexing Galápagos penguins (Spheniscus mendiculus) by morphological measurements. Endangered Species Research 35: 169-173 <a href = "http://www.int-res.com/abstracts/esr/v35/p169-173/"> DOI: 10.3354/esr00879</a> </p>
+<!-- -->
 <p>Boersma, P.D., <strong>C.D. Cappello</strong>, and G. Merlen. 2017. First observations of post-fledging care in Galápagos penguins (Spheniscus mendiculus). Wilson Journal of Ornithology 129(1): 186-191 <a href = "https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-129/issue-1/1559-4491-129.1.186/First-observations-of-post-fledging-care-in-Galapagos-Penguins-Spheniscus/10.1676/1559-4491-129.1.186.short" > DOI: 10.1676/1559-4491-129.1.186 </a> </p>
+<!-- -->
 <p>McNeil, S.E., D. Tracy, and <strong>C.D. Cappello</strong>. 2015. Loop migration and Chaco wintering by a Western Yellow-billed Cuckoo. Western Birds 46(3): 244-255 </p>
 
 <p><u>Technical reports:</u></p>
 
 <p>Boersma, P.D., <strong>C.D. Cappello</strong>, K.B. Karnauskas, G. Merlen, P. Parker, A. Steinfurth, and H.F. Vargas. 2018. Spheniscus mendiculus. The IUCN Red List of Threatened Species 2018 (BirdLife International). <a href = "https://www.iucnredlist.org/species/22697825/132606008"> DOI: 10.2305/IUCN.UK.2018-2.RLTS.T22697825A132606008.en </a> </p>
+<!-- -->
 <p>Boersma, P.D., <strong>C.D. Cappello</strong>, K.B. Karnauskas, G. Merlen, P. Parker, A. Steinfurth, and H.F. Vargas. 2016. Spheniscus mendiculus. The IUCN Red List of Threatened Species 2016 (BirdLife International). DOI: 10.2305/IUCN.UK.2016-3.RLTS.T22697825A93642773.en </p>
+<!-- -->
 <p>Garcia-Borboroglu, P., P.D. Boersma, and <strong>C.D. Cappello</strong>. 2015. Sentinels of the ocean: the science of the world’s penguins. The Pew Charitable Trusts. Washington, DC </p>
 
 <p><u>Popular science writing:</u></p>
 
 <p> Boersma, P.D., Merlen, G., Holt, K.A., <strong>Cappello, C.D.</strong>, Garcia-Borboroglu, P. 2021. Pinguinos en la Linea Ecuatorial: El Pinguino de Galapagos [Penguins on the Ecuador: the Galapagos Penguin]. Imprenta Mariscal, Quito, Ecuador </p>
 Guest writer for Galapagos Conservancy’s blog: <br>
-[A Fragile Landscape for Penguins.](https://www.galapagos.org/blog/fragile-landscape-for-penguins/) 2020. <br>
-[The Measure of a Penguin.](https://www.galapagos.org/blog/the-measure-of-a-penguin/) 2019. <br>
-[An Explosive Trip to Isabela: New Potential Nesting Sites for Galapagos Penguins.](https://www.galapagos.org/blog/penguin-update-2018/) 2018. <br>
-[A Good Year for Galapagos Penguins.](https://www.galapagos.org/blog/good-year-for-galapagos-penguins/) 2017. <br>
+[A Fragile Landscape for Penguins.](https://www.galapagos.org/newsroom/a-fragile-landscape-for-galapagos-penguins/) 2020. <br>
+[The Measure of a Penguin.](https://web.archive.org/web/20220412002806/https://www.galapagos.org/blog/the-measure-of-a-penguin/) 2019. <br>
+[An Explosive Trip to Isabela: New Potential Nesting Sites for Galapagos Penguins.](https://web.archive.org/web/20211026025446/https://www.galapagos.org/blog/penguin-update-2018/) 2018. <br>
+[A Good Year for Galapagos Penguins.](https://web.archive.org/web/20211026042333/https://www.galapagos.org/blog/good-year-for-galapagos-penguins/) 2017. <br>
 
 <h3>Honors & Awards</h3>
 <p><strong>Best Student Poster, 3rd place.</strong> 2021. 
@@ -79,8 +88,14 @@ Citizenship.</strong> 2011. Brandeis University </p>
 
 <h3>Presentations</h3>
 
+<p> Evaluating the effects of nest management on a recovering raptor population using an integrated population model. 2023. The Wildlife Society Annual Conference, Louisville, KY. <em> Talk </em> </p>
+<!-- -->
+<p> Evaluating the effects of nest management on a recovering raptor population using an integrated population model. 2023. Raptor Research Foundation Conference, Albuquerque, NM. <em> Talk </em> </p>
+<!-- -->
+<p> Insights on population growth, nest parasites, and management efforts for bald eagles in Arizona from more than 30 years of monitoring. 2023. Arizona Game and Fish Department “Science and Sweets” Research Branch Seminar, Phoenix AZ. <em> Invited talk </em> </p>
+<!-- -->
 <p> Ecology and conservation of Magellanic and Galapagos penguins in a changing world. 2022. School of Natural Resources and the Environment Seminar, University of Arizona, Tucson, AZ. <em>Invited virtual talk</em> </p>
-
+<!-- -->
 <p> Figuring out what counts: evaluating the effect of data quantity and quality on the performance of integrated population models. 2022. International Statistical and Ecology Conference, Cape Town, South Africa. <em>Virtual talk</em> </p>
 <!-- -->
 <p> Integrated population model performance across varying data requirements for estimating demographic parameters. 2021. EURING Analytical Meeting & Workshop, Quebec City, PQ, Canada.
@@ -88,7 +103,7 @@ Citizenship.</strong> 2011. Brandeis University </p>
 <!-- -->
 <p> Early bird gets the fish? Late breeding and trophic mismatch in a migratory seabird. 
 2021. Olympic Peninsula Audubon Society, Sequim, WA.
-<em>Invited talk</em> </p>
+<em>Invited virtual talk</em> </p>
 <!-- -->
 <p> Delayed breeding and trophic mismatch in a migratory seabird. 2021. 
 Graduate Research Seminar, Department of Biology, University of WA, Seattle.
@@ -121,10 +136,6 @@ Graduate Student Symposium, Department of Biology, Univ of WA, Seattle.
 <p> Status of Maine’s Piping Plovers. 2013. New England Shorebird Conference, West Barnstable, MA.
 <em>Invited, multi-speaker talk</em> </p>
 <!-- -->
-<p> North: A Journey in Collaborative Theater. 2011. Experiential Learning and Engaged 
-Learners Symposium, Brandeis University, Waltham, MA.
-<em>Talk</em> </p>
-<!-- -->
 <p> Range Condition Changes and Trends in Mbirikani Group Ranch. 2010.
 Presented to Maasai community, Kimana, Kenya.
 <em>Talk</em> </p>
@@ -133,9 +144,7 @@ Presented to Maasai community, Kimana, Kenya.
 Internship Symposium, Brandeis University, Waltham, MA.
 <em>Talk</em> </p>
 <!-- -->
-<p> Creating ‘DeisBikes, The Bicycle Share Program at Brandeis. 2009. Experiential 
-Learning and Engaged Learners Symposium, Brandeis University, Waltham, MA.
-<em>Poster</em> </p>
+
 
 <h3>Fieldwork</h3>
 
@@ -170,15 +179,16 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 
 <p> <strong>Guest Lecturer:</strong> </p>
 <ul>
-  <li>Ecology (Environmental Studies 211), Gettysburg College. 2020. </li> 
-  <li>Ecology (Environmental Studies 211), Gettysburg College. 2019. </li> 
+  <li>Ecology (Environmental Studies 211), Gettysburg College. 2022, 2020, 2019. </li> 
   <li>Experimental Evolutional Ecology (Biology 481), University of WA. 2019. </li> 
 </ul>
 				       
 				      
 <h3>Public Service & Outreach</h3>
-
 <p> <strong>Scientist</strong>, Skype a Scientist, classrooms across the U.S. 2019-present.	</p>
+<p> <strong>Guest Speaker</strong>, Monthly Speaker Series, American Cetacean Society, Orange County, CA. 2023. </p>
+<p> <strong>Guest speaker</strong>, First Wednesday Lectures, Aquarium of the Pacific, Long Beach, CA. 2022. </p>
+<p> <strong>Expert guest</strong>, Field Transmissions, episode: “Protecting Penguins”, Galápagos Conservancy. 2022. </p>
 <p> <strong>Mentor</strong>, Girls in Engineering, Math, and Science, Assoc. for Women in Science, Seattle. 2019-2021.</p>
 <p> <strong>Table Presenter</strong>, Polar Science Weekend, Seattle Pacific Science Center. 2015-2019. </p>
 <p> <strong>Coordinator & Trip Leader</strong>, Young Naturalists’ Society of the Pacific Northwest. 2015-2018. 	</p>
@@ -194,9 +204,11 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <ul>
   <li> Endangered Species Research </li>
   <li> Global Ecology and Biogeography </li>
+  <li> Oecologia </li>
   <li> Polar Biology </li>
 </ul>
 
+<p> <strong> Member</strong>, Inclusion, Diversity, Equity & Awareness Working Group, The Wildlife Society. 2023-present. </p>
 <p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-2022. </p>
 <p> <strong> Advisory Group Member</strong>, UW Sexual Harassment Prevention Advisory Board, Action Collaborative for Preventing Sexual Harassment in Higher Education, National Academy of Sciences, Engineering, and Medicine (NASEM). 2019-2022. </p>
 <p> <strong> Grad Student Representative</strong>, Equity in Fieldwork Task Force, Dept. of Biology, UW. 2020-2021. </p>
@@ -205,7 +217,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
 <br>
-<small><em>Last updated Oct 2022</em></small>
+<small><em>Last updated Jan 2024</em></small>
 
 <br> <br>
 
