@@ -13,7 +13,7 @@ My research interests are in wildlife ecology, conservation biology, and natural
 history. I use a combination of field studies, remote sensing, and quantitative tools to understand how global change and human activities affect the performance, ecological 
 interactions, and dynamics of wildlife populations. My research as a PhD student 
 in the Department of Biology at the University of Washington focused on the ecology 
-and conservation of two South American penguin species. My current work as a Postdoctoral Researcher with the Arizona Cooperative Fish and Wildlife Research Unit addresses implications of management and environmental conditions on Arizona bald eagles. My overarching goal is to conduct research that guides the conservation of threatened species, the mitigation of human-wildlife conflict, and that furthers our understanding of wildlife ecology and behavior. 
+and conservation of two South American penguin species. My current work as a Postdoctoral Researcher with the Arizona Cooperative Fish and Wildlife Research Unit addresses implications of management and environmental conditions on bald eagle population dynamics and habitat use. My overarching goal is to conduct research that guides the conservation of threatened species, the mitigation of human-wildlife conflict, and that furthers our understanding of wildlife ecology and behavior. 
 <br>
 <br>
 
@@ -36,6 +36,12 @@ conditions.
 <br>
 <br>
 
+#### Modeling population dynamics to inform management and research priorities:
+
+Management and funding allocation decisions frequently rely on population trajectory estimates. In my work as a postdoc with the Arizona Cooperative Fish and Wildlife Research Unit, I collaborated with Arizona Game and Fish Department to build a Bayesian, integrated population model (IPM) and conduct a population viability analysis (PVA) for bald eagles in Arizona. We estimated bald eagle population trends over the last 30 years as well as predicted population trajectories under various possible future management scenarios.
+<br>
+<br>
+
 #### Conservation of rare and endangered species:
 
 Populations of rare and endangered species have urgent conservation needs yet can be among the most difficult to study. The Galapagos penguin is Endangered
@@ -50,8 +56,4 @@ This information will be useful for designing artificial nests to increase breed
 opportunities for this small and endangered population.
 <br>
 <br>
-
-#### Modeling population dynamics to inform management and research priorities:
-
-Management and funding allocation decisions frequently rely on population trajectory estimates. In my work as a postdoc with the Arizona Cooperative Fish and Wildlife Research Unit, I am collaborating with Arizona Game and Fish Department to build a Bayesian, integrated population model (IPM) and conduct a population viability analysis (PVA) for Arizona bald eagles. Through this quantitative approach, we aim to describe  Arizona bald eagle population trends over the last 30 years as well as predict population trajectories under various future climate and management scenarios.
 
