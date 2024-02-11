@@ -31,7 +31,7 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Peer-reviewed articles:</u></p>
 
-<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. In Revision. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere </p>
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. Accepted. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere </p>
 <!-- -->
 <p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science 377(6609):1008-1011 <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
 <!-- -->
@@ -55,7 +55,7 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Popular science writing:</u></p>
 
-<p> Boersma, P.D., Merlen, G., Holt, K.A., <strong>Cappello, C.D.</strong>, Garcia-Borboroglu, P. 2021. [Pinguinos en la Linea Ecuatorial: El Pinguino de Galapagos](https://galapagos.gob.ec/wp-content/uploads/2022/08/Pinguinos-en-la-linea-ecuatorial_2022.pdf) [Penguins on the Ecuador: the Galapagos Penguin]. Imprenta Mariscal, Quito, Ecuador </p>
+<p> Boersma, P.D., Merlen, G., Holt, K.A., <strong>Cappello, C.D.</strong>, Garcia-Borboroglu, P. 2021. [Pinguinos en la Linea Ecuatorial: El Pinguino de Galapagos](https://galapagos.gob.ec/wp-content/uploads/2022/08/Pinguinos-en-la-linea-ecuatorial_2022.pdf). Imprenta Mariscal, Quito, Ecuador </p>
 Guest writer for Galapagos Conservancy’s blog: <br>
 [A Fragile Landscape for Penguins.](https://www.galapagos.org/newsroom/a-fragile-landscape-for-galapagos-penguins/) 2020. <br>
 [The Measure of a Penguin.](https://web.archive.org/web/20220412002806/https://www.galapagos.org/blog/the-measure-of-a-penguin/) 2019. <br>
