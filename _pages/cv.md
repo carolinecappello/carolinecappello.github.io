@@ -63,14 +63,15 @@ Guest writer for Galapagos Conservancy’s blog: <br>
 [A Good Year for Galapagos Penguins.](https://web.archive.org/web/20211026042333/https://www.galapagos.org/blog/good-year-for-galapagos-penguins/) 2017. <br>
 
 <h3>Honors & Awards</h3>
+<p><strong>Outstanding Scholarly Achievement by Research Staff or Postdoc Award. </strong> 2024. School of Natural Resources and the Environment, University of Arizona, Tucson, AZ </p>
+<p><strong>Graduate Research Fellowship. </strong> 2018-2021. 
+National Science Foundation </p>
 <p><strong>Best Student Poster, 3rd place.</strong> 2021. 
 EURING Analytical Meeting & Workshop, Quebec City, Canada </p>
 <p><strong>Best Student Talk, 2nd place.</strong> 2019. 
 10th International Penguin Congress, Dunedin, New Zealand </p>
 <p><strong>Faculty Choice for Best Talk.</strong> 2019. 
 Graduate Student Symposium, Department of Biology, University of WA </p>
-<p><strong>Graduate Research Fellowship. </strong> 2018. 
-National Science Foundation </p>
 <p><strong>Best PhD-student Poster, 2nd place.</strong> 2017. 
 Pacific Seabird Group Annual Meeting, Tacoma, WA	</p>
 <p><strong>Honorable Mention.</strong> 2016. 
