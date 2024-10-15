@@ -9,8 +9,8 @@ header:
 ---
 
 I am a wildlife ecologist working as a Postdoctoral Researcher with the [Center for Avian Population Studies](https://www.birds.cornell.edu/home/center-for-avian-population-studies/) at the Cornell Lab of Ornithology
-and collaborating with the [Applied Quantitative Ecology Lab](https://gavinmjones.com/) at the University of New Mexico.
-I recently completed a Postdoctoral Researcher position with the [Arizona Cooperative Research Unit](https://www1.usgs.gov/coopunits/unit/Arizona) and 
+and with the [Applied Quantitative Ecology Lab](https://gavinmjones.com/) at the University of New Mexico.
+I recently completed a Postdoctoral Researcher position with the [Arizona Cooperative Fish and Wildlife Research Unit](https://www1.usgs.gov/coopunits/unit/Arizona) and 
 received my PhD in 2022 from the Biology Department at the University of Washington, where I continue to collaborate with the [Center for Ecosystem Sentinels](https://ecosystemsentinels.org/) on studies of seabird ecology and conservation.
 
 I received my undergraduate degree from Brandeis University, where my focus on environmental studies
