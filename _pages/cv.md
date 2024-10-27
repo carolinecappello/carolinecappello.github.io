@@ -31,13 +31,13 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Peer-reviewed articles:</u></p>
 
-<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2024. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere DOI: 10.1002/ecs2.4943 </p>
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2024. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere 15(10): e4943 <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4943" >DOI: 10.1002/ecs2.4943 </a> </p>
 <!-- -->
-<p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science 377(6609):1008-1011 <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
+<p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science 377(6609): 1008-1011 <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
 <!-- -->
-<p>Wagner, E.L., <strong>Cappello, C.D.</strong>, and P.D. Boersma. 2022. Should I stay or should I go? Patterns of mate retention and divorce in Magellanic penguins (Spheniscus magellanicus). Animal Behaviour 192:133-144 <a href = "https://pubag.nal.usda.gov/catalog/7886423" >DOI: 10.1016/j.anbehav.2022.08.002 </a> </p>
+<p>Wagner, E.L., <strong>Cappello, C.D.</strong>, and P.D. Boersma. 2022. Should I stay or should I go? Patterns of mate retention and divorce in Magellanic penguins (Spheniscus magellanicus). Animal Behaviour 192: 133-144 <a href = "https://pubag.nal.usda.gov/catalog/7886423" >DOI: 10.1016/j.anbehav.2022.08.002 </a> </p>
 <!-- -->
-<p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2021. Consequences of phenological shifts and a compressed breeding period in Magellanic penguins. Ecology 102(10):e03443 <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3443" >DOI: 10.1002/ecy.3443</a> </p>
+<p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2021. Consequences of phenological shifts and a compressed breeding period in Magellanic penguins. Ecology 102(10): e03443 <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3443" >DOI: 10.1002/ecy.3443</a> </p>
 <!-- -->
 <p><strong>Cappello, C.D.</strong> and P.D. Boersma. 2018. Sexing Galápagos penguins (Spheniscus mendiculus) by morphological measurements. Endangered Species Research 35: 169-173 <a href = "http://www.int-res.com/abstracts/esr/v35/p169-173/"> DOI: 10.3354/esr00879</a> </p>
 <!-- -->
