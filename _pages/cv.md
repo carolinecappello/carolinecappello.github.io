@@ -31,7 +31,7 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Peer-reviewed articles:</u></p>
 
-<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2024. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere </p>
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2024. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere DOI: 10.1002/ecs2.4943 </p>
 <!-- -->
 <p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science 377(6609):1008-1011 <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
 <!-- -->
