@@ -4,17 +4,17 @@ title: CV
 layout: single
 permalink: /cv/
 header:
-  image: assets/images/IMG_4293_guanaco_cropped.JPG
+  image: assets/images/IMG_2844_bird_roller_cropped.JPG
 ---
 
 <p id="cvtop"> </p> 
 
 Caroline D. Cappello <br>
-Arizona Cooperative Fish and Wildlife Research Unit <br>
-University of Arizona <br>
-Tucson, AZ
+Center for Avian Population Studies <br>
+Cornell Lab of Ornithology <br>
+Ithaca, NY
 
-ccappello [at] arizona.edu
+caroline.d.cappello [at] gmail.edu
 
 <h3>Education</h3>
 
@@ -31,7 +31,7 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 
 <p><u>Peer-reviewed articles:</u></p>
 
-<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. Accepted. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere </p>
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2024. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere </p>
 <!-- -->
 <p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science 377(6609):1008-1011 <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
 <!-- -->
@@ -44,6 +44,7 @@ Full semester course credit in Wildlife Ecology & Management Studies</p>
 <p>Boersma, P.D., <strong>C.D. Cappello</strong>, and G. Merlen. 2017. First observations of post-fledging care in Galápagos penguins (Spheniscus mendiculus). Wilson Journal of Ornithology 129(1): 186-191 <a href = "https://bioone.org/journals/the-wilson-journal-of-ornithology/volume-129/issue-1/1559-4491-129.1.186/First-observations-of-post-fledging-care-in-Galapagos-Penguins-Spheniscus/10.1676/1559-4491-129.1.186.short" > DOI: 10.1676/1559-4491-129.1.186 </a> </p>
 <!-- -->
 <p>McNeil, S.E., D. Tracy, and <strong>C.D. Cappello</strong>. 2015. Loop migration and Chaco wintering by a Western Yellow-billed Cuckoo. Western Birds 46(3): 244-255 </p>
+
 
 <p><u>Technical reports:</u></p>
 
@@ -208,6 +209,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
   <li> Polar Biology </li>
 </ul>
 
+<p> <strong> Webinar Co-Coordinator & Co-Host</strong>, “How to include people with disabilities: Planning for accessibility in web-based meetings.” The Wildlife Society’s monthly webinar series. [link](https://wildlife.org/events/event/in-planning-video-conferences-are-you-including-people-with-disabilities/)
 <p> <strong> Member</strong>, Inclusion, Diversity, Equity & Awareness Working Group, The Wildlife Society. 2023-present. </p>
 <p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-2022. </p>
 <p> <strong> Advisory Group Member</strong>, UW Sexual Harassment Prevention Advisory Board, Action Collaborative for Preventing Sexual Harassment in Higher Education, National Academy of Sciences, Engineering, and Medicine (NASEM). 2019-2022. </p>
@@ -217,7 +219,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
 <br>
-<small><em>Last updated Jan 2024</em></small>
+<small><em>Last updated Oct 2024</em></small>
 
 <br> <br>
 
