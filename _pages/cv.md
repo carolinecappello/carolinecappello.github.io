@@ -209,7 +209,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
   <li> Polar Biology </li>
 </ul>
 
-<p> <strong> Webinar Co-Coordinator & Co-Host</strong>, “How to include people with disabilities: Planning for accessibility in web-based meetings.” The Wildlife Society’s monthly webinar series. [link](https://wildlife.org/events/event/in-planning-video-conferences-are-you-including-people-with-disabilities/)
+<p> <strong> Webinar Co-Coordinator & Co-Host</strong>, “How to include people with disabilities: Planning for accessibility in web-based meetings.” The Wildlife Society’s monthly webinar series. June 2024. [<a href = "https://wildlife.org/events/event/in-planning-video-conferences-are-you-including-people-with-disabilities/" >link</a>]</p>
 <p> <strong> Member</strong>, Inclusion, Diversity, Equity & Awareness Working Group, The Wildlife Society. 2023-present. </p>
 <p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-2022. </p>
 <p> <strong> Advisory Group Member</strong>, UW Sexual Harassment Prevention Advisory Board, Action Collaborative for Preventing Sexual Harassment in Higher Education, National Academy of Sciences, Engineering, and Medicine (NASEM). 2019-2022. </p>
