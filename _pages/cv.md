@@ -18,14 +18,23 @@ caroline.d.cappello [at] gmail.edu
 
 <h3>Education</h3>
 
-<p>2016-2022   <strong>University of Washington</strong>, Seattle, WA <br>
+<p><strong>University of Washington</strong>, Seattle, WA *2016-2022*<br>
 PhD, Department of Biology, Advisor: P. Dee Boersma </p>
 
-<p>2007-2011	<strong>Brandeis University</strong>, Waltham, MA <br>
+<p><strong>Brandeis University</strong>, Waltham, MA *2007-2011*<br>
 BA summa cum laude in Environmental Studies and Theater Arts with highest honors </p>
 
-<p>2010 The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania <br>
+<p>The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania *2010*<br>
 Full semester course credit in Wildlife Ecology & Management Studies</p>	                      		          
+
+<h3>Appointments</h3>
+
+<p>**Cornell Lab of Ornithology**, Ithaca, NY | **University of New Mexico**, Albuquerque, NM  
+Postdoctoral Associate *2024-present*</p>
+
+<p>**Arizona Cooperative Fish and Wildlife Research Unit, University of Arizona**, Tucson, AZ   
+Postdoctoral Researcher *2022-2024*</p>
+
 
 <h3>Publications</h3>
 
@@ -202,13 +211,6 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 
 <h3>Academic Service</h3>
 
-<strong>Reviewer:</strong>
-<ul>
-  <li> Endangered Species Research </li>
-  <li> Global Ecology and Biogeography </li>
-  <li> Polar Biology </li>
-</ul>
-
 <p> <strong> Webinar Co-Coordinator & Co-Host</strong>, “How to include people with disabilities: Planning for accessibility in web-based meetings.” The Wildlife Society’s monthly webinar series. June 2024. [<a href = "https://wildlife.org/events/event/in-planning-video-conferences-are-you-including-people-with-disabilities/" >link</a>]</p>
 <p> <strong> Member</strong>, Inclusion, Diversity, Equity & Awareness Working Group, The Wildlife Society. 2023-present. </p>
 <p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-2022. </p>
@@ -229,6 +231,13 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 
 <!--
 <h3>Data Tools</h3>
+
+<strong>Reviewer:</strong>
+<ul>
+  <li> Endangered Species Research </li>
+  <li> Global Ecology and Biogeography </li>
+  <li> Polar Biology </li>
+</ul>
 
 Data management: SQL <br>
 Data analysis: R (*tidyverse*), JAGS, NIMBLE <br>
