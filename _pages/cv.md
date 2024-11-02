@@ -18,22 +18,22 @@ caroline.d.cappello [at] gmail.edu
 
 <h3>Education</h3>
 
-<p><strong>University of Washington</strong>, Seattle, WA *2016-2022*<br>
+<p><strong>University of Washington</strong>, Seattle, WA <em>2016-2022</em><br>
 PhD, Department of Biology, Advisor: P. Dee Boersma </p>
 
-<p><strong>Brandeis University</strong>, Waltham, MA *2007-2011*<br>
+<p><strong>Brandeis University</strong>, Waltham, MA <em>2007-2011</em><br>
 BA summa cum laude in Environmental Studies and Theater Arts with highest honors </p>
 
-<p>The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania *2010*<br>
+<p>The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania <em>2010</em><br>
 Full semester course credit in Wildlife Ecology & Management Studies</p>	                      		          
 
 <h3>Appointments</h3>
 
-<p>**Cornell Lab of Ornithology**, Ithaca, NY | **University of New Mexico**, Albuquerque, NM  
-Postdoctoral Associate *2024-present*</p>
+<p><strong>Cornell Lab of Ornithology</strong>, Ithaca, NY | <strong>University of New Mexico</strong>, Albuquerque, NM  
+Postdoctoral Associate <em>2024-present</em></p>
 
-<p>**Arizona Cooperative Fish and Wildlife Research Unit, University of Arizona**, Tucson, AZ   
-Postdoctoral Researcher *2022-2024*</p>
+<p><strong>Arizona Cooperative Fish and Wildlife Research Unit, University of Arizona</strong>, Tucson, AZ   
+Postdoctoral Researcher <em>2022-2024</em></p>
 
 
 <h3>Publications</h3>
