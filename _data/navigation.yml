@@ -6,3 +6,5 @@ main:
      url: /research
    - title: "cv"
      url: /cv
+   - title: "news"
+     url: /news
