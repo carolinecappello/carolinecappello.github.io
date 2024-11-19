@@ -24,7 +24,8 @@ The paper is open access and available from
 [Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4943). 
 The code and data are avaiable on [Zenodo](https://zenodo.org/records/11051071).
 
-<img src = "assets/images/JournalCover_2024_Ecosphere.JPG" alt="Journal cover with deer" width="30%">
+<img src = "/assets/images/JournalCover_2024_Ecosphere.JPG" alt="Journal cover with deer" width="30%">
+
 
 <br>
 
