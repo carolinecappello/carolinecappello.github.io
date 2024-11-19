@@ -24,7 +24,7 @@ The paper is open access and available from
 [Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4943). 
 The code and data are avaiable on [Zenodo](https://zenodo.org/records/11051071).
 
-<img src = "/assets/images/JournalCover_2024_Ecosphere.JPG" alt="Journal cover with deer" width="30%">
+<img src = "/assets/images/JournalCover_2024_Ecosphere.JPG" alt="Ecosphere journal cover" width="30%">
 
 
 <br>
@@ -44,6 +44,8 @@ You can read more about our trip in the
 [Fall 2024 newsletter](https://ecosystemsentinels.org/field-updates-galapagos-islands-summer-2024/)
 from the Center for Ecosystem Sentinels.
 
+
+
 <br> 
 
 
@@ -55,5 +57,5 @@ I recently co-organized a webinar on videoconferencing accessibility with The
 Wildlife Society's Inclusion, Diversity, Equity, and Awareness (IDEA) and 
 Diability, Neurodivergence, and Allyship (DNA) Working Groups. The speaker, 
 Mark Boyden, gave and excellent presentation and I learned a lot! Check out the 
-recording here: <a>https://wildlife.org/events/event/in-planning-video-conferences-are-you-including-people-with-disabilities/</a>
+recording here: [https://wildlife.org/events/event/in-planning-video-conferences-are-you-including-people-with-disabilities/](https://wildlife.org/events/event/in-planning-video-conferences-are-you-including-people-with-disabilities/)
 
