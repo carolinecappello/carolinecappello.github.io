@@ -46,6 +46,9 @@ You can read more about our trip in the
 [Fall 2024 newsletter](https://ecosystemsentinels.org/field-updates-galapagos-islands-summer-2024/)
 from the Center for Ecosystem Sentinels.
 
+<img src = "/assets/images/IMG_8322_crew_zodiac_screenshot.JPG" alt="Researchers smiling in an inflatable boat" width="40%">
+
+
 <br> 
 
 
