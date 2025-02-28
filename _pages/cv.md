@@ -40,6 +40,8 @@ Postdoctoral Researcher <em>2022-2024</em></p>
 
 <p><u>Peer-reviewed articles:</u></p>
 
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. Accepted. Northward migrations of nonbreeding bald eagles from Arizona, USA. Journal of Raptor Research </p>
+<!-- -->
 <p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2024. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere 15(10): e4943 <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4943" >DOI: 10.1002/ecs2.4943 </a> </p>
 <!-- -->
 <p>Fricke, E.C., Hsieh, C., Middleton, O., Gorczynski, D., <strong>Cappello, C.D.</strong>, Sanisidro, O., Rowan, J., Svenning, J.C., and L. Beaudrot. 2022. Collapse of terrestrial mammal food webs since the Late Pleistocene. Science 377(6609): 1008-1011 <a href = "https://www.science.org/doi/10.1126/science.abn4012" >DOI: 10.1126/science.abn4012</a> </p>
@@ -221,7 +223,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
 <br>
-<small><em>Last updated Oct 2024</em></small>
+<small><em>Last updated Feb 2025</em></small>
 
 <br> <br>
 
