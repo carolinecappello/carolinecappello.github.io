@@ -40,6 +40,9 @@ Postdoctoral Researcher <em>2022-2024</em></p>
 
 <p><u>Peer-reviewed articles:</u></p>
 
+
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. Accepted. Using integrated step-selection analyses to map high-risk electrocution areas for a highly mobile species. Journal of Wildlife Management </p>
+<!-- -->
 <p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. Accepted. Northward migrations of nonbreeding bald eagles from Arizona, USA. Journal of Raptor Research </p>
 <!-- -->
 <p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2024. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere 15(10): e4943 <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4943" >DOI: 10.1002/ecs2.4943 </a> </p>
@@ -75,7 +78,7 @@ Guest writer for Galapagos Conservancy’s blog: <br>
 [A Good Year for Galapagos Penguins.](https://web.archive.org/web/20211026042333/https://www.galapagos.org/blog/good-year-for-galapagos-penguins/) 2017. <br>
 
 <h3>Honors & Awards</h3>
-<p><strong>Outstanding Scholarly Achievement by Research Staff or Postdoc Award. </strong> 2024. School of Natural Resources and the Environment, University of Arizona, Tucson, AZ </p>
+<p><strong>Outstanding Scholarly Achievement by Research Staff or Postdoc Award. </strong> 2024. School of Natural Resources and the Environment, University of AZ </p>
 <p><strong>Graduate Research Fellowship. </strong> 2018-2021. 
 National Science Foundation </p>
 <p><strong>Best Student Poster, 3rd place.</strong> 2021. 
@@ -214,7 +217,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <h3>Academic Service</h3>
 
 <p> <strong> Webinar Co-Coordinator & Co-Host</strong>, “How to include people with disabilities: Planning for accessibility in web-based meetings.” The Wildlife Society’s monthly webinar series. June 2024. [<a href = "https://wildlife.org/events/event/in-planning-video-conferences-are-you-including-people-with-disabilities/" >link</a>]</p>
-<p> <strong> Member</strong>, Inclusion, Diversity, Equity & Awareness Working Group, The Wildlife Society. 2023-present. </p>
+<p> <strong> Member</strong>, Inclusion, Diversity, Equity & Awareness Working Group, The Wildlife Society. 2023-2024. </p>
 <p> <strong> Grad Student Representative</strong>, Diversity and Equity Committee, Dept. of Biology, UW. 2020-2022. </p>
 <p> <strong> Advisory Group Member</strong>, UW Sexual Harassment Prevention Advisory Board, Action Collaborative for Preventing Sexual Harassment in Higher Education, National Academy of Sciences, Engineering, and Medicine (NASEM). 2019-2022. </p>
 <p> <strong> Grad Student Representative</strong>, Equity in Fieldwork Task Force, Dept. of Biology, UW. 2020-2021. </p>
@@ -223,7 +226,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
 <br>
-<small><em>Last updated Feb 2025</em></small>
+<small><em>Last updated April 2025</em></small>
 
 <br> <br>
 
