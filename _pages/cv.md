@@ -14,7 +14,7 @@ Center for Avian Population Studies <br>
 Cornell Lab of Ornithology <br>
 Ithaca, NY
 
-caroline.d.cappello [at] gmail.edu
+caroline.d.cappello [at] gmail.com
 
 <h3>Education</h3>
 
@@ -234,24 +234,4 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 
 <br> <br>
 
-<!--
-<h3>Data Tools</h3>
 
-<strong>Reviewer:</strong>
-<ul>
-  <li> Endangered Species Research </li>
-  <li> Global Ecology and Biogeography </li>
-  <li> Polar Biology </li>
-</ul>
-
-Data management: SQL <br>
-Data analysis: R (*tidyverse*), JAGS, NIMBLE <br>
-Visualization/web design: R (*ggplot2, shiny*), HTML, CSS <br>
-Mapping:  ESRI, R (*sf, raster*) <br>
-
-
-<h3>Other Skills</h3>
-
-Language: English (*native*); Spanish (*fluent*); French (*intermediate*) <br>
-Certifications: CPR, AED, and First Aid (*adult/child/infant*); Washington State Boater Education Card
--->
