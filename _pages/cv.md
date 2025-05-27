@@ -14,7 +14,7 @@ Center for Avian Population Studies <br>
 Cornell Lab of Ornithology <br>
 Ithaca, NY
 
-caroline.d.cappello [at] gmail [dot] com
+caroline.d.cappello@gmail.com
 
 <h3>Education</h3>
 
