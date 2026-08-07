@@ -12,6 +12,38 @@ header:
 
 <br>
 
+
+### New Paper Alert
+<em>Jul 2025</em> <br>
+
+Where should we focus efforts to reduce bald eagle electrocution risk? 
+Tuk Jacobson, Jamey Driscoll, Kyle McCarty, Javan Bauder, and I have a new paper
+out this month in the [Journal of Wildlife Management](https://wildlife.onlinelibrary.wiley.com/doi/epdf/10.1002/jwmg.70061)
+that uses GPS tracking and movement simulations to identify areas where bald eagles
+are most likely to interact with power infrastructure, and therefore where electrocution 
+risk may be greatest, in the Phoenix Metropoltian Area. The results provide a framework for using animal movement to 
+prioritize locations for reducing harmful human-wildlife interactions.
+
+
+
+<br>
+
+
+
+### In The Media
+<em>May 2025</em> <br>
+
+Very exciting news this month! Our Galápagos penguin research was featured in 
+this month's issue of National Geographic. The article features the artifical nests 
+that our team at the Center for Ecosystem Sentinels built for Galápagos penguins and highlights the fascinating adaptations 
+of these equatorial penguins. You can read the article by Rene Ebersole on [National Geographic](https://www.nationalgeographic.com/animals/article/rare-penguins-galapagos-islands-heat). 
+
+<img src = "/assets/images/MagazineCover_NatGeo_2025.JPG" alt="National Geographic magazine cover with penguin" width="30%">
+
+
+<br>
+
+
 ### New Paper Alert
 
 <em>October 2024</em> <br>
@@ -26,7 +58,7 @@ The paper is open access and available from
 [Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4943). 
 The code and data are available on [Zenodo](https://zenodo.org/records/11051071).
 
-<img src = "/assets/images/JournalCover_2024_Ecosphere.JPG" alt="Ecosphere journal cover" width="30%">
+<img src = "assets/images/JournalCover_2024_Ecosphere.JPG" alt="Ecosphere journal cover" width="30%">
 
 
 <br>
