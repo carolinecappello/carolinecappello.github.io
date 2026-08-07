@@ -18,18 +18,18 @@ caroline.d.cappello@gmail.com
 
 <h3>Education</h3>
 
-<p><strong>University of Washington</strong>, Seattle, WA <em>2016-2022</em><br>
+<p><strong>University of Washington</strong>, Seattle, WA  
 PhD, Department of Biology, Advisor: P. Dee Boersma </p>
 
-<p><strong>Brandeis University</strong>, Waltham, MA <em>2007-2011</em><br>
+<p><strong>Brandeis University</strong>, Waltham, MA  
 BA summa cum laude in Environmental Studies and Theater Arts with highest honors </p>
 
-<p>The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania <em>2010</em><br>
+<p>The <strong>School for Field Studies</strong>, Kimana, Kenya & Karatu, Tanzania  
 Full semester course credit in Wildlife Ecology & Management Studies</p>	                      		          
 
 <h3>Appointments</h3>
 
-<p><strong>Cornell Lab of Ornithology</strong>, Ithaca, NY | <strong>University of New Mexico</strong>, Albuquerque, NM  
+<p><strong>Cornell Lab of Ornithology</strong>, Ithaca, NY
 Postdoctoral Associate <em>2024-present</em></p>
 
 <p><strong>Arizona Cooperative Fish and Wildlife Research Unit, University of Arizona</strong>, Tucson, AZ   
@@ -41,9 +41,9 @@ Postdoctoral Researcher <em>2022-2024</em></p>
 <p><u>Peer-reviewed articles:</u></p>
 
 
-<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. Accepted. Using integrated step-selection analyses to map high-risk electrocution areas for a highly mobile species. Journal of Wildlife Management </p>
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2025. Using integrated step-selection analyses to map high-risk electrocution areas for a highly mobile species. Journal of Wildlife Management 89(7): e70061 <a href = "https://doi.org/10.1002/jwmg.70061" >DOI: 10.1002/jwmg.70061 </a> </p>
 <!-- -->
-<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. Accepted. Northward migrations of nonbreeding bald eagles from Arizona, USA. Journal of Raptor Research </p>
+<p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2025. Northward migrations of nonbreeding bald eagles from Arizona, USA. Journal of Raptor Research 59(3): 1-16 <a href = "https://doi.org/10.3356/jrr2450" >DOI: 10.3356/jrr2450 </a> </p>
 <!-- -->
 <p><strong>Cappello, C.D.</strong>, Jacobson, K.V.,  Driscoll, J.T.,  McCarty, K.M., and Bauder, J.M. 2024. Evaluating the effects of nest management on a recovering raptor using integrated population modeling. Ecosphere 15(10): e4943 <a href = "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4943" >DOI: 10.1002/ecs2.4943 </a> </p>
 <!-- -->
@@ -78,6 +78,7 @@ Guest writer for Galapagos Conservancy’s blog: <br>
 [A Good Year for Galapagos Penguins.](https://web.archive.org/web/20211026042333/https://www.galapagos.org/blog/good-year-for-galapagos-penguins/) 2017. <br>
 
 <h3>Honors & Awards</h3>
+<p><strong>2026 Best Publication Award. </strong> 2026. Arizona Cooperative Fish & Wildlife Research Unit, Tucson, AZ </p>
 <p><strong>Outstanding Scholarly Achievement by Research Staff or Postdoc Award. </strong> 2024. School of Natural Resources and the Environment, University of AZ </p>
 <p><strong>Graduate Research Fellowship. </strong> 2018-2021. 
 National Science Foundation </p>
@@ -104,6 +105,8 @@ Citizenship.</strong> 2011. Brandeis University </p>
 
 <h3>Presentations</h3>
 
+<p> Using eBird data for scalable estimates of abundance, trends, and environmental drivers. 2025. Pinyon Jay Working Group Webinar Series. <em> Invited virtual talk </em> </p>
+<!-- -->
 <p> Evaluating the effects of nest management on a recovering raptor population using an integrated population model. 2023. The Wildlife Society Annual Conference, Louisville, KY. <em> Talk </em> </p>
 <!-- -->
 <p> Evaluating the effects of nest management on a recovering raptor population using an integrated population model. 2023. Raptor Research Foundation Conference, Albuquerque, NM. <em> Talk </em> </p>
@@ -195,7 +198,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 
 <p> <strong>Guest Lecturer:</strong> </p>
 <ul>
-  <li>Ecology (Environmental Studies 211), Gettysburg College. 2022, 2020, 2019. </li> 
+  <li>Ecology (Environmental Studies 211), Gettysburg College. 2025, 2022, 2020, 2019. </li> 
   <li>Experimental Evolutional Ecology (Biology 481), University of WA. 2019. </li> 
 </ul>
 				       
@@ -226,7 +229,7 @@ Calibrated activity sensors in radio collars to differentiate <strong>Rocky Moun
 <p> <strong> Symposium Co-Coordinator</strong>, Annual Graduate Student Symposium, Department of Biology, UW. 2019.</p>
 
 <br>
-<small><em>Last updated April 2025</em></small>
+<small><em>Last updated April 2026</em></small>
 
 <br> <br>
 
