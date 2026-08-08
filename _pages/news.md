@@ -10,8 +10,6 @@ header:
 
 <p id="newstop"> </p> 
 
-<br>
-
 
 ### New Paper Alert
 <em>Jul 2025</em> <br>
@@ -58,7 +56,7 @@ The paper is open access and available from
 [Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4943). 
 The code and data are available on [Zenodo](https://zenodo.org/records/11051071).
 
-<img src = "assets/images/JournalCover_2024_Ecosphere.JPG" alt="Ecosphere journal cover" width="30%">
+<img src = "/assets/images/JournalCover_2024_Ecosphere.JPG" alt="Ecosphere journal cover" width="30%">
 
 
 <br>
